@@ -1,0 +1,3 @@
+aiohttp>=3.9
+playwright>=1.44      # optional: browser tier for JS-heavy / challenge-protected pages
+redis>=5.0            # optional: distributed SeenStore
